@@ -1,7 +1,11 @@
-# 700 MB csv file
+# Config files
+config.py
+
+# Kaggle and Wiki csv file
 Data/ratings.csv
 Data/movies_metadata.csv
 Data/wikipedia-movies.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
